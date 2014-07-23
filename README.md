@@ -1,6 +1,15 @@
 Exceptional Realty Group Website
 ---
 
+<<<<<<< HEAD
+#Description
+
+This is an example site for the Intro to Front-end Web Development Course at The Flatiron School
+
+#Contact
+
+email:jon@flatironschool.com
+=======
 # Description
 
 This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
@@ -8,3 +17,4 @@ This is an example site for the Intro to Front-end Web Development Course at The
 # Contact
 
 email: jon@flatironschool.com
+>>>>>>> site-style
